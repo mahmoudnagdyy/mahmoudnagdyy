@@ -57,6 +57,12 @@ Hi, I'm Mahmoud Nagdy!
 	</a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white">
 	</a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+	</a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+	</a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+	</a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -80,19 +86,6 @@ Hi, I'm Mahmoud Nagdy!
 </br>
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
-<br/>
 
 ------
 
