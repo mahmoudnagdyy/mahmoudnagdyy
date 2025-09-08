@@ -51,8 +51,10 @@ Hi, I'm Mahmoud Nagdy!
 <p>
     <a href="https://github.com/mahmoudnagdyy"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
-    <a href="https://github.com/mahmoudnagdyy"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-404D59?logo=node&logoColor=white">
-</a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-404D59?logo=node.js&logoColor=white">
+	</a>
+    <a href="https://github.com/mahmoudnagdyy">  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
+	</a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
