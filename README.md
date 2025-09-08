@@ -103,8 +103,6 @@ Hi, I'm Mahmoud Nagdy!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=to_do_ejs&theme=dark"  />
 </a>
 
-Personal portfolio website built with **React** + **TailwindCSS**.  
-🔗 [Live Demo](https://your-portfolio-link.com)
 
 </br>
 
