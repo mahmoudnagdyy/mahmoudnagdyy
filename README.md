@@ -20,6 +20,8 @@ Hi, I'm Mahmoud Nagdy!
 <br/>
 <hr>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
 <pre>
 💻 I am a self taught Backend Node.Js Developer
 📚 I have a Bachelors in Computer & Systems from the University Zagazig at Egypt
