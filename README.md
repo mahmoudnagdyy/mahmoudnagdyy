@@ -90,6 +90,10 @@ Hi, I'm Mahmoud Nagdy!
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark" />
 </a>
 
+<a href="https://github.com/mahmoudnagdyy/library-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=library-system&theme=radical" />
+</a>  
+📚 Full-stack library system with Node.js, Express, MongoDB.
 
 
 ------
