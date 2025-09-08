@@ -87,10 +87,8 @@ Hi, I'm Mahmoud Nagdy!
 ### 📂 Projects
 
 <a href="https://github.com/mahmoudnagdyy/Sarahah">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark" />
 </a>
-
-[![Sarahah](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=radical)](https://github.com/mahmoudnagdyy/Sarahah)
 
 
 
