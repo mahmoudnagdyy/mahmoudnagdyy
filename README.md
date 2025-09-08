@@ -87,13 +87,8 @@ Hi, I'm Mahmoud Nagdy!
 ### 📂 Projects
 
 <a href="https://github.com/mahmoudnagdyy/Sarahah">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark" alt="welcome />
 </a>
-
-<a href="https://github.com/mahmoudnagdyy/library-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=library-system&theme=radical" />
-</a>  
-📚 Full-stack library system with Node.js, Express, MongoDB.
 
 
 ------
