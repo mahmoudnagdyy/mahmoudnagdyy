@@ -53,15 +53,21 @@ Hi, I'm Mahmoud Nagdy!
     <a href="https://github.com/mahmoudnagdyy"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white">
     <a href="https://github.com/mahmoudnagdyy"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-404D59?logo=node.js&logoColor=white">
 	</a>
-    <a href="https://github.com/mahmoudnagdyy">  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
+    <a href="https://github.com/mahmoudnagdyy"><img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white">
+	</a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white">
+
 	</a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+	</a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+	</a>
 </p>
 
 ### 💻 Software and Tools
