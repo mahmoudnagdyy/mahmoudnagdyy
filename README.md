@@ -26,7 +26,7 @@ Hi, I'm Mahmoud Nagdy!
 📚 I have a Bachelors in Computer & Systems from the University Zagazig at Egypt
 📝 I have a strong interest in Backend and Frontend
 🌟 Main languages: JavaScript, C
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="[https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing](https://drive.google.com/file/d/1I5UNoSlj1tlOWWo2Una5WkkTU9ur-dcm/view?usp=drive_link)" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
@@ -43,7 +43,7 @@ Hi, I'm Mahmoud Nagdy!
 
 <p>
     <a href="https://github.com/mahmoudnagdyy"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/mahmoudnagdyy"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
