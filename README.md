@@ -87,9 +87,13 @@ Hi, I'm Mahmoud Nagdy!
 ### 📂 Projects
 
 <a href="https://github.com/mahmoudnagdyy/Sarahah">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark" alt="welcome />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark"  />
+</a>
+<a href="https://github.com/mahmoudnagdyy/Book-Shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Book-Shop&theme=dark"  />
 </a>
 
+</br>
 
 ------
 
