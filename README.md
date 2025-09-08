@@ -6,10 +6,10 @@ Hi, I'm Mahmoud Nagdy!
 </h1>
 <p align="center">
 	<a href="https://github.com/mahmoudnagdyy">
-		<img src="https://komarev.com/ghpvc/?username=mahmoudnagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=mahmoudnagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudnagdyy" />
 	</a>
 	<a href="https://github.com/mahmoudnagdyy">
-		<img src="https://img.shields.io/github/followers/mahmoudnagdyy?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/mahmoudnagdyy?label=Followers" alt="mahmoudnagdyy" />
 	</a>
 </p>
 <br/>
@@ -32,10 +32,9 @@ Hi, I'm Mahmoud Nagdy!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:bouaskaoun.mohammed@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/bouaskaoun/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/Bouaskaoun"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/bouaskaounmohammed"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+	<a href="mailto:mahmoudnagdy65@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/mahmoudnagdyyyy/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/mahmoudnagdyy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -43,8 +42,8 @@ Hi, I'm Mahmoud Nagdy!
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="https://github.com/mahmoudnagdyy"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
