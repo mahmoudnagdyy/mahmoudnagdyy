@@ -6,10 +6,10 @@ Hi, I'm Mahmoud Nagdy!
 </h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+		<img src="https://komarev.com/ghpvc/?username=mahmoudnagdyy&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/mahmoudnagdyy?label=Followers" alt="bouaskaoun" />
 	</a>
 </p>
 <br/>
