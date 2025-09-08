@@ -96,7 +96,10 @@ Hi, I'm Mahmoud Nagdy!
 </br>
 <a href="https://github.com/mahmoudnagdyy/to_do_list_server">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=to_do_list_server&theme=dark"  />
-	<p>Welcome</p>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mahmoudnagdyy/to_do_ejs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=to_do_ejs&theme=dark"  />
 </a>
 
 </br>
