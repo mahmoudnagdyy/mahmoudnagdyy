@@ -115,7 +115,10 @@ Hi, I'm Mahmoud Nagdy!
 <a href="https://github.com/mahmoudnagdyy/learning_platform_nestJs">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=learning_platform_nestJs&theme=dark"  />
 </a>
-
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mahmoudnagdyy/social_media_socketIO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=social_media_socketIO&theme=dark"  />
+</a>
 
 </br>
 
