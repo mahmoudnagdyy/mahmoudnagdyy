@@ -125,6 +125,10 @@ Hi, I'm Mahmoud Nagdy!
 <a href="https://github.com/mahmoudnagdyy/chat">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=chat&theme=dark"  />
 </a>
+</br>
+<a href="https://github.com/mahmoudnagdyy/Hotel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Hotel&theme=dark"  />
+</a>
 
 ------
 
