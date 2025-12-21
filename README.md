@@ -48,6 +48,7 @@ Hi, I'm Mahmoud Nagdy!
 <p>
     <a href="https://github.com/mahmoudnagdyy"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?logo=c&logoColor=white"></a>
+	<a href="https://github.com/mahmoudnagdyy"><img alt="C" src="[https://img.shields.io/badge/C%20-%2314354C.svg?logo=c&logoColor=white](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)"></a>
 
 ### 🧰 Frameworks and Libraries
 
@@ -91,6 +92,14 @@ Hi, I'm Mahmoud Nagdy!
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+
+
+### 📂 IOS Projects
+
+<a href="https://github.com/mahmoudnagdyy/Sarahah_Swiftui_App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah_Swiftui_App&theme=dark"  />
+</a>
+
 
 ### 📂 Node.js Projects
 
