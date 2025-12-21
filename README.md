@@ -67,6 +67,8 @@ Hi, I'm Mahmoud Nagdy!
 	</a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
 	</a>
+	<a href="https://github.com/mahmoudnagdyy"><img alt="GitHub" src="https://img.shields.io/badge/SwiftUI-007ACC?style=flat&logo=swift&logoColor=white">
+	</a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
@@ -86,6 +88,7 @@ Hi, I'm Mahmoud Nagdy!
     <a href="https://github.com/mahmoudnagdyy"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+	<a href="https://github.com/mahmoudnagdyy"><img alt="XCode" src="https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=xcode&logoColor=white"></a>
 </p>
 </br>
 
