@@ -6,7 +6,7 @@ Hi, I'm Mahmoud Nagdy!
 </h1>
 <p align="center">
 	<a href="https://github.com/mahmoudnagdyy">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+And+Systems+Student;Backend+NodeJs+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+And+Systems+Student;Backend+NodeJs+Web+Developer;IOS+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <p align="center">
@@ -23,10 +23,10 @@ Hi, I'm Mahmoud Nagdy!
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 <pre>
-💻 I am a self taught Backend Node.Js Developer
+💻 I am a self taught Backend Node.Js, IOS Developer
 📚 I have a Bachelors in Computer & Systems from the University Zagazig at Egypt
 📝 I have a strong interest in Backend and Frontend
-🌟 Main languages: JavaScript, C
+🌟 Main languages: JavaScript, C, Swift
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1I5UNoSlj1tlOWWo2Una5WkkTU9ur-dcm/view?usp=drive_link" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
@@ -104,6 +104,11 @@ Hi, I'm Mahmoud Nagdy!
 </a>
 
 
+
+
+<br/>
+<br/>
+<br/>
 ### 📂 Node.js Projects
 
 <a href="https://github.com/mahmoudnagdyy/Sarahah">
