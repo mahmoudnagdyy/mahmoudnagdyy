@@ -48,7 +48,7 @@ Hi, I'm Mahmoud Nagdy!
 <p>
     <a href="https://github.com/mahmoudnagdyy"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/mahmoudnagdyy"><img alt="C" src="https://img.shields.io/badge/C%20-%2314354C.svg?logo=c&logoColor=white"></a>
-	<a href="https://github.com/mahmoudnagdyy"><img alt="C" src="[https://img.shields.io/badge/C%20-%2314354C.svg?logo=c&logoColor=white](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)"></a>
+	<a href="https://github.com/mahmoudnagdyy"><img alt="C" src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
