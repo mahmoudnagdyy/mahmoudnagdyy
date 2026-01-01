@@ -100,13 +100,13 @@ Hi, I'm Mahmoud Nagdy!
 
 ### 📂 Node.js Projects
 
-[![Sarahah](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah&theme=dark)](https://github.com/mahmoudnagdyy/Sarahah)
+[![Sarahah]](https://github.com/mahmoudnagdyy/Sarahah)
 
-[![Book-Shop](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Book-Shop&theme=dark)](https://github.com/mahmoudnagdyy/Book-Shop)
+[![Book-Shop]](https://github.com/mahmoudnagdyy/Book-Shop)
 
-[![ToDo Server](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=to_do_list_server&theme=dark)](https://github.com/mahmoudnagdyy/to_do_list_server)
+[![ToDo Server]](https://github.com/mahmoudnagdyy/to_do_list_server)
 
-[![ToDo EJS](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=to_do_ejs&theme=dark)](https://github.com/mahmoudnagdyy/to_do_ejs)
+[![ToDo EJS]](https://github.com/mahmoudnagdyy/to_do_ejs)
 
 [![Learning Platform](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=learning_platform_nestJs&theme=dark)](https://github.com/mahmoudnagdyy/learning_platform_nestJs)
 
