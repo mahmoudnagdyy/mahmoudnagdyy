@@ -99,10 +99,6 @@ Hi, I'm Mahmoud Nagdy!
 
 ### 📂 IOS Projects
 
-<a href="https://github.com/mahmoudnagdyy/Sarahah_Swiftui_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Sarahah_Swiftui_App&theme=dark"  />
-</a>
-
 
 
 
