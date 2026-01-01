@@ -100,7 +100,7 @@ Hi, I'm Mahmoud Nagdy!
 
 ### 📂 Node.js Projects
 
-[![Sarahah]](https://github.com/mahmoudnagdyy/Sarahah)
+![Sarahah](https://github.com/mahmoudnagdyy/Sarahah)
 
 [![Book-Shop]](https://github.com/mahmoudnagdyy/Book-Shop)
 
