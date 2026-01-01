@@ -97,11 +97,6 @@ Hi, I'm Mahmoud Nagdy!
 </p>
 
 
-### 📂 IOS Projects
-
-
-
-
 
 ### 📂 Node.js Projects
 
