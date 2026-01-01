@@ -100,23 +100,16 @@ Hi, I'm Mahmoud Nagdy!
 
 ### 📂 Node.js Projects
 
-![Sarahah](https://github.com/mahmoudnagdyy/Sarahah)
+- [Sarahah](https://github.com/mahmoudnagdyy/Sarahah)
+- [Book-Shop](https://github.com/mahmoudnagdyy/Book-Shop)
+- [To Do List Server](https://github.com/mahmoudnagdyy/to_do_list_server)
+- [To Do EJS](https://github.com/mahmoudnagdyy/to_do_ejs)
+- [Learning Platform (NestJS)](https://github.com/mahmoudnagdyy/learning_platform_nestJs)
+- [Social Media (Socket.IO)](https://github.com/mahmoudnagdyy/social_media_socketIO)
+- [To Do GraphQL](https://github.com/mahmoudnagdyy/to_do_graphql)
+- [Chat App](https://github.com/mahmoudnagdyy/chat)
+- [Hotel Management](https://github.com/mahmoudnagdyy/Hotel)
 
-[![Book-Shop]](https://github.com/mahmoudnagdyy/Book-Shop)
-
-[![ToDo Server]](https://github.com/mahmoudnagdyy/to_do_list_server)
-
-[![ToDo EJS]](https://github.com/mahmoudnagdyy/to_do_ejs)
-
-[![Learning Platform](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=learning_platform_nestJs&theme=dark)](https://github.com/mahmoudnagdyy/learning_platform_nestJs)
-
-[![Socket.IO](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=social_media_socketIO&theme=dark)](https://github.com/mahmoudnagdyy/social_media_socketIO)
-
-[![GraphQL ToDo](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=to_do_graphql&theme=dark)](https://github.com/mahmoudnagdyy/to_do_graphql)
-
-[![Chat](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=chat&theme=dark)](https://github.com/mahmoudnagdyy/chat)
-
-[![Hotel](https://github-readme-stats.vercel.app/api/pin/?username=mahmoudnagdyy&repo=Hotel&theme=dark)](https://github.com/mahmoudnagdyy/Hotel)
 
 ------
 
