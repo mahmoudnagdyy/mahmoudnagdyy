@@ -97,7 +97,7 @@ Hi, I'm Mahmoud Nagdy!
 </p>
 
 
-### 📂 Node.js Projects
+### 📂 IOS Projects
 
 - [Restaurant_SwiftUI_App](https://github.com/mahmoudnagdyy/Restaurant_SwiftUI_App)
 
