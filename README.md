@@ -100,7 +100,7 @@ Hi, I'm Mahmoud Nagdy!
 ### 📂 IOS Projects
 
 - [Restaurant_SwiftUI_App](https://github.com/mahmoudnagdyy/Restaurant_SwiftUI_App)
-- - [Chat_SwiftUI_App](https://github.com/mahmoudnagdyy/Chat_Swiftui_App)
+- [Chat_SwiftUI_App](https://github.com/mahmoudnagdyy/Chat_Swiftui_App)
 
 
 ------
