@@ -6,7 +6,7 @@ Hi, I'm Mahmoud Nagdy!
 </h1>
 <p align="center">
 	<a href="https://github.com/mahmoudnagdyy">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+And+Systems+Student;Backend+NodeJs+Web+Developer;IOS+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+And+Control+Systems+Student;Backend+NodeJs+Web+Developer;IOS+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <p align="center">
